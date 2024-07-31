@@ -72,7 +72,7 @@ To get a local copy of this portfolio up and running, follow these steps:
 Feel free to reach out to me via:
 
 - **Email**: nomeshpalakaluri@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile/](http://www.linkedin.com/in/palakaluri-nomesh-87700016b%5d))
-- **GitHub**: [Your GitHub Profile](https://github.com/Nomesh88)
+- **LinkedIn**: Nomesh-Palakaluri ([https://www.linkedin.com/in/your-profile/](http://www.linkedin.com/in/palakaluri-nomesh-87700016b%5d))
+- **GitHub**:Nomesh-Palakaluri (https://github.com/Nomesh88)
 
 Thank you for visiting my portfolio!
